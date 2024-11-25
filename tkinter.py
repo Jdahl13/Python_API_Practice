@@ -1,1 +1,6 @@
-print("This is my initial commit")
+from tkinter import *
+
+m = tkinter.Tk()
+
+
+m.mainloop()
